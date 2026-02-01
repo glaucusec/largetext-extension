@@ -3,5 +3,7 @@
   "description": "Simple toggle for Large Text accessibility setting",
   "uuid": "largetext@glaucusec.com",
   "shell-version": ["46", "47"],
-  "url": "https://github.com/glaucusec/largetext"
+  "url": "https://github.com/glaucusec/largetext",
+  "settings-schema": "org.gnome.shell.extensions.largetext",
+  "version": 2
 }

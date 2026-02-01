@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="largetext">
+  <schema id="org.gnome.shell.extensions.largetext" path="/org/gnome/shell/extensions/largetext/">
+    <key name="scale-factor" type="d">
+      <default>1.25</default>
+      <summary>The target Large Text scale</summary>
+      <description>The scaling factor to apply when Large Text is enabled (e.g., 1.25, 1.5).</description>
+    </key>
+  </schema>
+</schemalist>
