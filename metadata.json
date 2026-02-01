@@ -1,0 +1,7 @@
+{
+  "name": "Large Text Toggle",
+  "description": "Simple toggle for Large Text accessibility setting",
+  "uuid": "largetext@glaucusec.com",
+  "shell-version": ["46", "47"],
+  "url": "https://github.com/glaucusec/largetext"
+}
